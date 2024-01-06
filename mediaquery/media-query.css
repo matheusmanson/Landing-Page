@@ -6,9 +6,10 @@ body {
 }
 
 main {
+  
   width: 90%;
   height: 90vh;
-  margin: auto;
+  margin-top: 20px;
   border-radius: 20px;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.351);
   }
@@ -19,9 +20,9 @@ main {
   flex-direction: column;
   margin: auto;
   background-repeat: no-repeat;
-  background-position:bottom;    /* 20% à direita e 40% abaixo */
+  background-position:bottom,center;    /* 20% à direita e 40% abaixo */
   background-blend-mode:saturation;
-  background-size: 800px;
+  background-size: 500px;
   
 }
 
