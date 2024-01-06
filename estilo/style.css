@@ -45,7 +45,7 @@ box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.356);
     width: 100%;
     height: 100%;
     margin: 10px;
-    background-image: url(/imagens/original-sem-fundo.png);
+    background-image: url(../imagens/original-sem-fundo.png);
     background-repeat: no-repeat;
     background-position:right;    /* 20% à direita e 40% abaixo */
     background-blend-mode:saturation;
