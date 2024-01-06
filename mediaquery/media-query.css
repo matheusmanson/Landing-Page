@@ -2,14 +2,14 @@
 @media screen and (max-width: 768px) {
 
 body {
-    background-color:#d8cccc;
+  background-color:rgb(61, 60, 60);
 }
 
 main {
   width: 90%;
   height: 90vh;
   margin: auto;
-  border-radius: 10px;
+  border-radius: 20px;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.351);
   }
 
